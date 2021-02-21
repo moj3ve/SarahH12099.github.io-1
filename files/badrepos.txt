@@ -174,3 +174,7 @@ https://cadegosser.github.io/
 https://cadegosser.github.io
 http://cadegosser.github.io/
 http://cadegosser.github.io
+https://bannerbomb.github.io/repo/
+https://bannerbomb.github.io/repo
+http://bannerbomb.github.io/repo/
+http://bannerbomb.github.io/repo
