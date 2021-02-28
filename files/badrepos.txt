@@ -390,3 +390,11 @@ https://idwaneo.org/repo/
 https://idwaneo.org/repo
 http://idwaneo.org/repo/
 http://idwaneo.org/repo
+https://stemgrade180.yourepo.com/
+https://stemgrade180.yourepo.com
+http://stemgrade180.yourepo.com/
+http://stemgrade180.yourepo.com
+https://filippobiga.me/repo/
+https://filippobiga.me/repo
+http://filippobiga.me/repo/
+http://filippobiga.me/repo
