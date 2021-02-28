@@ -366,3 +366,15 @@ https://repo.appvv/
 https://repo.appvv
 http://repo.appvv/
 http://repo.appvv
+https://cydia.xsellize.com/
+https://cydia.xsellize.com
+http://cydia.xsellize.com/
+http://cydia.xsellize.com
+https://hiyph.us/
+https://hiyph.us
+http://hiyph.us/
+http://hiyph.us
+https://ihacksrepo.com/
+https://ihacksrepo.com
+http://ihacksrepo.com/
+http://ihacksrepo.com
