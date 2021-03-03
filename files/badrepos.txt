@@ -402,3 +402,7 @@ https://iosgods.com/repo/
 https://iosgods.com/repo
 http://iosgods.com/repo/
 http://iosgods.com/repo
+https://cydia.heaveniphone.com/
+https://cydia.heaveniphone.com
+http://cydia.heaveniphone.com/
+http://cydia.heaveniphone.com
