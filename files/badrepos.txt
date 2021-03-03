@@ -406,3 +406,7 @@ https://cydia.heaveniphone.com/
 https://cydia.heaveniphone.com
 http://cydia.heaveniphone.com/
 http://cydia.heaveniphone.com
+https://watking01.github.io/repo/
+https://watking01.github.io/repo
+http://watking01.github.io/repo/
+http://watking01.github.io/repo
