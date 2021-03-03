@@ -398,3 +398,7 @@ https://filippobiga.me/repo/
 https://filippobiga.me/repo
 http://filippobiga.me/repo/
 http://filippobiga.me/repo
+https://iosgods.com/repo/
+https://iosgods.com/repo
+http://iosgods.com/repo/
+http://iosgods.com/repo
