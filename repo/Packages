@@ -8,11 +8,11 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
-Version: 2.1.0.0
-Installed-Size: 2100
-Filename: debs/h.ryan.youtubereborn_2.1.0.0_iphoneos-arm.deb
-Size: 301348
-MD5sum: 78c2c667d33c99f932599a4650587b7e
-SHA1: 167bbc4e6136b6cac99d6dc2de942a5726fbbf9f
-SHA256: 4fe87d17705b8f2af98f342f20ef06a200745331649e048cacf077db6423a2af
+Version: 2.1.0.1
+Installed-Size: 1416
+Filename: debs/h.ryan.youtubereborn_2.1.0.1_iphoneos-arm.deb
+Size: 232588
+MD5sum: a37c25a99f6d100692e8517132f8cca1
+SHA1: 287cb230b486e5631ec5c6434b7dc0944df7e2d4
+SHA256: 8b916472eaca81f801c263cf99d77513960a45cc8cef45700404d62dfc393553
 
