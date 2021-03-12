@@ -16,3 +16,19 @@ MD5sum: 8245a2216c721cac9ff957235419916c
 SHA1: cd5454ac1f4b7d0452c978ac4c8bdfb46fae9b0c
 SHA256: 9624f8f42ad8f302d122765818b4cea039f729d57f9070e4548549af490cae64
 
+Package: it.ned.runaway
+Name: Runaway
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Description: Show network speed in status bar (iOS 13+ only).
+Maintainer: ned
+Author: ned
+Section: Tweaks
+Version: 0.0.5
+Installed-Size: 356
+Filename: debs/it.ned.runaway_0.0.5_iphoneos-arm.deb
+Size: 18830
+MD5sum: ffeaa570daaa1756553023be55a3c09b
+SHA1: 54ad4390dbfcadcc86798f70f224aa9fe9259081
+SHA256: 417f91c03b1a648120d125ffb84ac8e6aa9241d8778b59769f4a94a83f5b555c
+
