@@ -8,13 +8,13 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
-Version: 2.1.0.3
-Installed-Size: 1416
+Version: 2.1.0.4
+Installed-Size: 1420
 Filename: debs/YouTubeReborn.deb
-Size: 233928
-MD5sum: 8245a2216c721cac9ff957235419916c
-SHA1: cd5454ac1f4b7d0452c978ac4c8bdfb46fae9b0c
-SHA256: 9624f8f42ad8f302d122765818b4cea039f729d57f9070e4548549af490cae64
+Size: 239726
+MD5sum: 6648f8b45867003116f38eb1e88b329b
+SHA1: 39be3c9a57ea26677b981b82a66fb2b6535a62cb
+SHA256: 078b315d5f55712c406e4940e8b1fe051142161be909ca45163c2f78c14b3b01
 
 Package: it.ned.runaway
 Name: Runaway
