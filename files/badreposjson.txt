@@ -629,9 +629,9 @@
         http://check0ver.com
     ],
     [
-        https://repo.midn1ght.dev/
-        https://repo.midn1ght.dev
-        http://repo.midn1ght.dev/
+        https://repo.midn1ght.dev/,
+        https://repo.midn1ght.dev,
+        http://repo.midn1ght.dev/,
         http://repo.midn1ght.dev
     ]
 ]
