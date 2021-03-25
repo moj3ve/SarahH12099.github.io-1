@@ -633,5 +633,11 @@
         https://repo.midn1ght.dev,
         http://repo.midn1ght.dev/,
         http://repo.midn1ght.dev
+    ],
+    [
+        https://www.myclassic.net/,
+        https://www.myclassic.net,
+        http://www.myclassic.net/,
+        http://www.myclassic.net
     ]
 ]
