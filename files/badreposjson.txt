@@ -24,186 +24,274 @@
         http://mainrepo.org
     ],
     [
-        https://repo.biteyourapple.net/
-        https://repo.biteyourapple.net
-        http://repo.biteyourapple.net/
+        https://repo.biteyourapple.net/,
+        https://repo.biteyourapple.net,
+        http://repo.biteyourapple.net/,
         http://repo.biteyourapple.net
-        https://cydia.iphonecake.com/
-        https://cydia.iphonecake.com
-        http://cydia.iphonecake.com/
+    ],
+    [
+        https://cydia.iphonecake.com/,
+        https://cydia.iphonecake.com,
+        http://cydia.iphonecake.com/,
         http://cydia.iphonecake.com
-        https://rejail.ru/
-        https://rejail.ru
-        http://rejail.ru/
+    ],
+        https://rejail.ru/,
+        https://rejail.ru,
+        http://rejail.ru/,
         http://rejail.ru
-        https://pulandres.rejail.ru/
-        https://pulandres.rejail.ru
-        http://pulandres.rejail.ru/
+    ],
+    [
+        https://pulandres.rejail.ru/,
+        https://pulandres.rejail.ru,
+        http://pulandres.rejail.ru/,
         http://pulandres.rejail.ru
-        https://repo.pulandres.me/
-        https://repo.pulandres.me
-        http://repo.pulandres.me/
+    ],
+    [
+        https://repo.pulandres.me/,
+        https://repo.pulandres.me,
+        http://repo.pulandres.me/,
         http://repo.pulandres.me
-        https://pulandres.me/repo/
-        https://pulandres.me/repo
-        http://pulandres.me/repo/
+    ],
+    [
+        https://pulandres.me/repo/,
+        https://pulandres.me/repo,
+        http://pulandres.me/repo/,
         http://pulandres.me/repo
-        https://repo.xarold.com/
-        https://repo.xarold.com
-        http://repo.xarold.com/
+    ],
+    [
+        https://repo.xarold.com/,
+        https://repo.xarold.com,
+        http://repo.xarold.com/,
         http://repo.xarold.com
-        https://cydia.xarold.com/
-        https://cydia.xarold.com
-        http://cydia.xarold.com/
+    ],
+    [
+        https://cydia.xarold.com/,
+        https://cydia.xarold.com,
+        http://cydia.xarold.com/,
         http://cydia.xarold.com
-        https://julio.xarold.com/
-        https://julio.xarold.com
-        http://julio.xarold.com/
+    ],
+    [
+        https://julio.xarold.com/,
+        https://julio.xarold.com,
+        http://julio.xarold.com/,
         http://julio.xarold.com
-        https://repo.insanelyi.com/
-        https://repo.insanelyi.com
-        http://repo.insanelyi.com/
+    ],
+    [
+        https://repo.insanelyi.com/,
+        https://repo.insanelyi.com,
+        http://repo.insanelyi.com/,
         http://repo.insanelyi.com
-        https://repo.ipodhacks142.com/
-        https://repo.ipodhacks142.com
-        http://repo.ipodhacks142.com/
+    ],
+    [
+        https://repo.ipodhacks142.com/,
+        https://repo.ipodhacks142.com,
+        http://repo.ipodhacks142.com/,
         http://repo.ipodhacks142.com
-        https://mohadu31.com/
-        https://mohadu31.com
-        http://mohadu31.com/
+    ],
+    [
+        https://mohadu31.com/,
+        https://mohadu31.com,
+        http://mohadu31.com/,
         http://mohadu31.com
-        https://kiengk0eng.github.io/
-        https://kiengk0eng.github.io
-        http://kiengk0eng.github.io/
+    ],
+    [
+        https://kiengk0eng.github.io/,
+        https://kiengk0eng.github.io,
+        http://kiengk0eng.github.io/,
         http://kiengk0eng.github.io
-        https://repo.cokernutx.com/
-        https://repo.cokernutx.com
-        http://repo.cokernutx.com/
+    ],
+    [
+        https://repo.cokernutx.com/,
+        https://repo.cokernutx.com,
+        http://repo.cokernutx.com/,
         http://repo.cokernutx.com
-        https://2escustomservices.com/
-        https://2escustomservices.com
-        http://2escustomservices.com/
+    ],
+    [
+        https://2escustomservices.com/,
+        https://2escustomservices.com,
+        http://2escustomservices.com/,
         http://2escustomservices.com
-        https://repohack.github.io/mainrepo/
-        https://repohack.github.io/mainrepo
-        http://repohack.github.io/mainrepo/
+    ],
+    [
+        https://repohack.github.io/mainrepo/,
+        https://repohack.github.io/mainrepo,
+        http://repohack.github.io/mainrepo/,
         http://repohack.github.io/mainrepo
-        https://repo.saunderstech.co/
-        https://repo.saunderstech.co
-        http://repo.saunderstech.co/
+    ],
+    [
+        https://repo.saunderstech.co/,
+        https://repo.saunderstech.co,
+        http://repo.saunderstech.co/,
         http://repo.saunderstech.co
-        https://notmytweaks.github.io/
-        https://notmytweaks.github.io
-        http://notmytweaks.github.io/
+    ],
+    [
+        https://notmytweaks.github.io/,
+        https://notmytweaks.github.io,
+        http://notmytweaks.github.io/,
         http://notmytweaks.github.io
-        https://popcorntimetv.github.io/
-        https://popcorntimetv.github.io
-        http://popcorntimetv.github.io/
+    ],
+    [
+        https://popcorntimetv.github.io/,
+        https://popcorntimetv.github.io,
+        http://popcorntimetv.github.io/,
         http://popcorntimetv.github.io
-        https://repo.kurdios.com/
-        https://repo.kurdios.com
-        http://repo.kurdios.com/
+    ],
+    [
+        https://repo.kurdios.com/,
+        https://repo.kurdios.com,
+        http://repo.kurdios.com/,
         http://repo.kurdios.com
-        https://arab-cydia.com/repo/
-        https://arab-cydia.com/repo
-        http://arab-cydia.com/repo/
+    ],
+    [
+        https://arab-cydia.com/repo/,
+        https://arab-cydia.com/repo,
+        http://arab-cydia.com/repo/,
         http://arab-cydia.com/repo
-        https://arab-crack.com/
-        https://arab-crack.com
-        http://arab-crack.com/
+    ],
+    [
+        https://arab-crack.com/,
+        https://arab-crack.com,
+        http://arab-crack.com/,
         http://arab-crack.com
-        https://crack-arab.com/cydia/
-        https://crack-arab.com/cydia
-        http://crack-arab.com/cydia/
+    ],
+    [
+        https://crack-arab.com/cydia/,
+        https://crack-arab.com/cydia,
+        http://crack-arab.com/cydia/,
         http://crack-arab.com/cydia
-        https://globalplusplus.github.io/
-        https://globalplusplus.github.io
-        http://globalplusplus.github.io/
+    ],
+    [
+        https://globalplusplus.github.io/,
+        https://globalplusplus.github.io,
+        http://globalplusplus.github.io/,
         http://globalplusplus.github.io
-        https://paxcex.github.io/
-        https://paxcex.github.io
-        http://paxcex.github.io/
+    ],
+    [
+        https://paxcex.github.io/,
+        https://paxcex.github.io,
+        http://paxcex.github.io/,
         http://paxcex.github.io
-        https://repo.kenhtao.net/
-        https://repo.kenhtao.net
-        http://repo.kenhtao.net/
+    ],
+    [
+        https://repo.kenhtao.net/,
+        https://repo.kenhtao.net,
+        http://repo.kenhtao.net/,
         http://repo.kenhtao.net
-        https://apt.hackcn.net/
-        https://apt.hackcn.net
-        http://apt.hackcn.net/
+    ],
+    [
+        https://apt.hackcn.net/,
+        https://apt.hackcn.net,
+        http://apt.hackcn.net/,
         http://apt.hackcn.net
-        https://repo.danielpitra.cz/
-        https://repo.danielpitra.cz
-        http://repo.danielpitra.cz/
+    ],
+    [
+        https://repo.danielpitra.cz/,
+        https://repo.danielpitra.cz,
+        http://repo.danielpitra.cz/,
         http://repo.danielpitra.cz
-        https://mrmadjb.github.io/
-        https://mrmadjb.github.io
-        http://mrmadjb.github.io/
+    ],
+    [
+        https://mrmadjb.github.io/,
+        https://mrmadjb.github.io,
+        http://mrmadjb.github.io/,
         http://mrmadjb.github.io
-        https://entityz.github.io/
-        https://entityz.github.io
-        http://entityz.github.io/
+    ],
+    [
+        https://entityz.github.io/,
+        https://entityz.github.io,
+        http://entityz.github.io/,
         http://entityz.github.io
-        https://abdomuftah.github.io/
-        https://abdomuftah.github.io
-        http://abdomuftah.github.io/
+    ],
+    [
+        https://abdomuftah.github.io/,
+        https://abdomuftah.github.io,
+        http://abdomuftah.github.io/,
         http://abdomuftah.github.io
-        https://page.cocotweaks.net/
-        https://page.cocotweaks.net
-        http://page.cocotweaks.net/
+    ],
+    [
+        https://page.cocotweaks.net/,
+        https://page.cocotweaks.net,
+        http://page.cocotweaks.net/,
         http://page.cocotweaks.net
-        https://repohack.github.io/mainrepo/
-        https://repohack.github.io/mainrepo
-        http://repohack.github.io/mainrepo/
+    ],
+    [
+        https://repohack.github.io/mainrepo/,
+        https://repohack.github.io/mainrepo,
+        http://repohack.github.io/mainrepo/,
         http://repohack.github.io/mainrepo
-        https://cydia-jailbreak.github.io/
-        https://cydia-jailbreak.github.io
-        http://cydia-jailbreak.github.io/
+    ],
+    [
+        https://cydia-jailbreak.github.io/,
+        https://cydia-jailbreak.github.io,
+        http://cydia-jailbreak.github.io/,
         http://cydia-jailbreak.github.io
-        https://cydia.popcorn-time.to/
-        https://cydia.popcorn-time.to
-        http://cydia.popcorn-time.to/
+    ],
+    [
+        https://cydia.popcorn-time.to/,
+        https://cydia.popcorn-time.to,
+        http://cydia.popcorn-time.to/,
         http://cydia.popcorn-time.to
-        https://cydia.getpopcorntime.is/
-        https://cydia.getpopcorntime.is
-        http://cydia.getpopcorntime.is/
+    ],
+    [
+        https://cydia.getpopcorntime.is/,
+        https://cydia.getpopcorntime.is,
+        http://cydia.getpopcorntime.is/,
         http://cydia.getpopcorntime.is
-        https://bo7ios.github.io/ar/
-        https://bo7ios.github.io/ar
-        http://bo7ios.github.io/ar/
+    ],
+    [
+        https://bo7ios.github.io/ar/,
+        https://bo7ios.github.io/ar,
+        http://bo7ios.github.io/ar/,
         http://bo7ios.github.io/ar
-        https://cadegosser.github.io/
-        https://cadegosser.github.io
-        http://cadegosser.github.io/
+    ],
+    [
+        https://cadegosser.github.io/,
+        https://cadegosser.github.io,
+        http://cadegosser.github.io/,
         http://cadegosser.github.io
-        https://bannerbomb.github.io/repo/
-        https://bannerbomb.github.io/repo
-        http://bannerbomb.github.io/repo/
+    ],
+    [
+        https://bannerbomb.github.io/repo/,
+        https://bannerbomb.github.io/repo,
+        http://bannerbomb.github.io/repo/,
         http://bannerbomb.github.io/repo
-        https://repo.vip/
-        https://repo.vip
-        http://repo.vip/
+    ],
+    [
+        https://repo.vip/,
+        https://repo.vip,
+        http://repo.vip/,
         http://repo.vip
-        https://cydia.hackulo.us/
-        https://cydia.hackulo.us
-        http://cydia.hackulo.us/
+    ],
+    [
+        https://cydia.hackulo.us/,
+        https://cydia.hackulo.us,
+        http://cydia.hackulo.us/,
         http://cydia.hackulo.us
-        https://appaddict.org/
-        https://appaddict.org
-        http://appaddict.org/
+    ],
+    [
+        https://appaddict.org/,
+        https://appaddict.org,
+        http://appaddict.org/,
         http://appaddict.org
-        https://appaddict.com/
-        https://appaddict.com
-        http://appaddict.com/
+    ],
+    [
+        https://appaddict.com/,
+        https://appaddict.com,
+        http://appaddict.com/,
         http://appaddict.com
-        https://applecraxkhead.github.io/
-        https://applecraxkhead.github.io
-        http://applecraxkhead.github.io/
+    ],
+    [
+        https://applecraxkhead.github.io/,
+        https://applecraxkhead.github.io,
+        http://applecraxkhead.github.io/,
         http://applecraxkhead.github.io
+    ],
+    [
         https://repo.lifpa.com/
         https://repo.lifpa.com
         http://repo.lifpa.com/
         http://repo.lifpa.com
+    ],
         https://lifpa.com/repo/
         https://lifpa.com/repo
         http://lifpa.com/repo/
@@ -432,3 +520,5 @@
         https://repo.midn1ght.dev
         http://repo.midn1ght.dev/
         http://repo.midn1ght.dev
+    ]
+]
