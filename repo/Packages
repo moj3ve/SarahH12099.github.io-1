@@ -1,34 +1,34 @@
 Package: h.ryan.youtubereborn
-Name: YouTube Reborn
+Version: 2.1.0.9
 Architecture: iphoneos-arm
-Description: YouTube Customizer
 Maintainer: Ryan H
-Author: Ryan H
-Section: Tweaks
+Installed-Size: 1448
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
-Version: 2.1.0.8
-Installed-Size: 1452
 Filename: debs/YouTubeReborn.deb
-Size: 243894
-MD5sum: 2de50fb35cc866e642e561f52981f51c
-SHA1: a3daeff8f39d38122ffdb59fa55838b575f6624c
-SHA256: fd62c8157e59ce68c590b8dcdcd6ea9b61bf910708a9b9be8254f26a59efcc41
+Size: 238382
+MD5sum: 3d38447d366174b96b31aa2b6f321418
+SHA1: c5a895896ff61f9411f8992fa3ff60ccc1def596
+SHA256: 271431e66d27afc1ca806e1fd69b2f9fd95aa690c89420c10fb1c7afae0ae3c1
+Section: Tweaks
+Description: YouTube Customizer
+Author: Ryan H
+Name: YouTube Reborn
 
 Package: it.ned.runaway
-Name: Runaway
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Architecture: iphoneos-arm
-Description: Show network speed in status bar (iOS 13+ only).
-Maintainer: ned
-Author: ned
-Section: Tweaks
 Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: ned
 Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
 Filename: debs/it.ned.runaway_0.0.5_iphoneos-arm.deb
 Size: 18830
 MD5sum: ffeaa570daaa1756553023be55a3c09b
 SHA1: 54ad4390dbfcadcc86798f70f224aa9fe9259081
 SHA256: 417f91c03b1a648120d125ffb84ac8e6aa9241d8778b59769f4a94a83f5b555c
+Section: Tweaks
+Description: Show network speed in status bar (iOS 13+ only).
+Author: ned
+Name: Runaway
 
