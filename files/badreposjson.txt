@@ -1,146 +1,146 @@
 [
     [
-        https://cydia.kiiimo.org/,
-        https://cydia.kiiimo.org,
-        http://cydia.kiiimo.org/,
-        http://cydia.kiiimo.org
+        "https://cydia.kiiimo.org/",
+        "https://cydia.kiiimo.org",
+        "http://cydia.kiiimo.org/",
+        "http://cydia.kiiimo.org"
     ],
     [
-        https://repo.hackyouriphone.org/,
-        https://repo.hackyouriphone.org,
-        http://repo.hackyouriphone.org/,
-        http://repo.hackyouriphone.org
+        "https://repo.hackyouriphone.org/",
+        "https://repo.hackyouriphone.org",
+        "http://repo.hackyouriphone.org/",
+        "http://repo.hackyouriphone.org"
     ],
     [
-        https://julio.hackyouriphone.org/,
-        https://julio.hackyouriphone.org,
-        http://julio.hackyouriphone.org/,
-        http://julio.hackyouriphone.org
+        "https://julio.hackyouriphone.org/",
+        "https://julio.hackyouriphone.org",
+        "http://julio.hackyouriphone.org/",
+        "http://julio.hackyouriphone.org"
     ],
     [
-        https://mainrepo.org/,
-        https://mainrepo.org,
-        http://mainrepo.org/,
-        http://mainrepo.org
+        "https://mainrepo.org/",
+        "https://mainrepo.org",
+        "http://mainrepo.org/",
+        "http://mainrepo.org"
     ],
     [
-        https://repo.biteyourapple.net/,
-        https://repo.biteyourapple.net,
-        http://repo.biteyourapple.net/,
-        http://repo.biteyourapple.net
+        "https://repo.biteyourapple.net/",
+        "https://repo.biteyourapple.net",
+        "http://repo.biteyourapple.net/",
+        "http://repo.biteyourapple.net"
     ],
     [
-        https://cydia.iphonecake.com/,
-        https://cydia.iphonecake.com,
-        http://cydia.iphonecake.com/,
-        http://cydia.iphonecake.com
+        "https://cydia.iphonecake.com/",
+        "https://cydia.iphonecake.com",
+        "http://cydia.iphonecake.com/",
+        "http://cydia.iphonecake.com"
     ],
-        https://rejail.ru/,
-        https://rejail.ru,
-        http://rejail.ru/,
-        http://rejail.ru
-    ],
-    [
-        https://pulandres.rejail.ru/,
-        https://pulandres.rejail.ru,
-        http://pulandres.rejail.ru/,
-        http://pulandres.rejail.ru
+        "https://rejail.ru/",
+        "https://rejail.ru",
+        "http://rejail.ru/",
+        "http://rejail.ru"
     ],
     [
-        https://repo.pulandres.me/,
-        https://repo.pulandres.me,
-        http://repo.pulandres.me/,
-        http://repo.pulandres.me
+        "https://pulandres.rejail.ru/",
+        "https://pulandres.rejail.ru",
+        "http://pulandres.rejail.ru/",
+        "http://pulandres.rejail.ru"
     ],
     [
-        https://pulandres.me/repo/,
-        https://pulandres.me/repo,
-        http://pulandres.me/repo/,
-        http://pulandres.me/repo
+        "https://repo.pulandres.me/",
+        "https://repo.pulandres.me",
+        "http://repo.pulandres.me/",
+        "http://repo.pulandres.me"
     ],
     [
-        https://repo.xarold.com/,
-        https://repo.xarold.com,
-        http://repo.xarold.com/,
-        http://repo.xarold.com
+        "https://pulandres.me/repo/",
+        "https://pulandres.me/repo",
+        "http://pulandres.me/repo/",
+        "http://pulandres.me/repo"
     ],
     [
-        https://cydia.xarold.com/,
-        https://cydia.xarold.com,
-        http://cydia.xarold.com/,
-        http://cydia.xarold.com
+        "https://repo.xarold.com/",
+        "https://repo.xarold.com",
+        "http://repo.xarold.com/",
+        "http://repo.xarold.com"
     ],
     [
-        https://julio.xarold.com/,
-        https://julio.xarold.com,
-        http://julio.xarold.com/,
-        http://julio.xarold.com
+        "https://cydia.xarold.com/",
+        "https://cydia.xarold.com",
+        "http://cydia.xarold.com/",
+        "http://cydia.xarold.com"
     ],
     [
-        https://repo.insanelyi.com/,
-        https://repo.insanelyi.com,
-        http://repo.insanelyi.com/,
-        http://repo.insanelyi.com
+        "https://julio.xarold.com/",
+        "https://julio.xarold.com",
+        "http://julio.xarold.com/",
+        "http://julio.xarold.com"
     ],
     [
-        https://repo.ipodhacks142.com/,
-        https://repo.ipodhacks142.com,
-        http://repo.ipodhacks142.com/,
-        http://repo.ipodhacks142.com
+        "https://repo.insanelyi.com/",
+        "https://repo.insanelyi.com",
+        "http://repo.insanelyi.com/",
+        "http://repo.insanelyi.com"
     ],
     [
-        https://mohadu31.com/,
-        https://mohadu31.com,
-        http://mohadu31.com/,
-        http://mohadu31.com
+        "https://repo.ipodhacks142.com/",
+        "https://repo.ipodhacks142.com",
+        "http://repo.ipodhacks142.com/",
+        "http://repo.ipodhacks142.com"
     ],
     [
-        https://kiengk0eng.github.io/,
-        https://kiengk0eng.github.io,
-        http://kiengk0eng.github.io/,
-        http://kiengk0eng.github.io
+        "https://mohadu31.com/",
+        "https://mohadu31.com",
+        "http://mohadu31.com/",
+        "http://mohadu31.com"
     ],
     [
-        https://repo.cokernutx.com/,
-        https://repo.cokernutx.com,
-        http://repo.cokernutx.com/,
-        http://repo.cokernutx.com
+        "https://kiengk0eng.github.io/",
+        "https://kiengk0eng.github.io",
+        "http://kiengk0eng.github.io/",
+        "http://kiengk0eng.github.io"
     ],
     [
-        https://2escustomservices.com/,
-        https://2escustomservices.com,
-        http://2escustomservices.com/,
-        http://2escustomservices.com
+        "https://repo.cokernutx.com/",
+        "https://repo.cokernutx.com",
+        "http://repo.cokernutx.com/",
+        "http://repo.cokernutx.com"
     ],
     [
-        https://repohack.github.io/mainrepo/,
-        https://repohack.github.io/mainrepo,
-        http://repohack.github.io/mainrepo/,
-        http://repohack.github.io/mainrepo
+        "https://2escustomservices.com/",
+        "https://2escustomservices.com",
+        "http://2escustomservices.com/",
+        "http://2escustomservices.com"
     ],
     [
-        https://repo.saunderstech.co/,
-        https://repo.saunderstech.co,
-        http://repo.saunderstech.co/,
-        http://repo.saunderstech.co
+        "https://repohack.github.io/mainrepo/",
+        "https://repohack.github.io/mainrepo",
+        "http://repohack.github.io/mainrepo/",
+        "http://repohack.github.io/mainrepo"
     ],
     [
-        https://notmytweaks.github.io/,
-        https://notmytweaks.github.io,
-        http://notmytweaks.github.io/,
-        http://notmytweaks.github.io
+        "https://repo.saunderstech.co/",
+        "https://repo.saunderstech.co",
+        "http://repo.saunderstech.co/",
+        "http://repo.saunderstech.co"
     ],
     [
-        https://popcorntimetv.github.io/,
-        https://popcorntimetv.github.io,
-        http://popcorntimetv.github.io/,
-        http://popcorntimetv.github.io
+        "https://notmytweaks.github.io/",
+        "https://notmytweaks.github.io",
+        "http://notmytweaks.github.io/",
+        "http://notmytweaks.github.io"
     ],
     [
-        https://repo.kurdios.com/,
-        https://repo.kurdios.com,
-        http://repo.kurdios.com/,
-        http://repo.kurdios.com
+        "https://popcorntimetv.github.io/",
+        "https://popcorntimetv.github.io",
+        "http://popcorntimetv.github.io/",
+        "http://popcorntimetv.github.io"
+    ],
+    [
+        "https://repo.kurdios.com/",
+        "https://repo.kurdios.com",
+        "http://repo.kurdios.com/",
+        "http://repo.kurdios.com"
     ],
     [
         https://arab-cydia.com/repo/,
