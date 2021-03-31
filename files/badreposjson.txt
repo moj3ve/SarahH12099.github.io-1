@@ -233,160 +233,160 @@
         "http://cydia.popcorn-time.to"
     ],
     [
-        https://cydia.getpopcorntime.is/,
-        https://cydia.getpopcorntime.is,
-        http://cydia.getpopcorntime.is/,
-        http://cydia.getpopcorntime.is
+        "https://cydia.getpopcorntime.is/",
+        "https://cydia.getpopcorntime.is",
+        "http://cydia.getpopcorntime.is/",
+        "http://cydia.getpopcorntime.is"
     ],
     [
-        https://bo7ios.github.io/ar/,
-        https://bo7ios.github.io/ar,
-        http://bo7ios.github.io/ar/,
-        http://bo7ios.github.io/ar
+        "https://bo7ios.github.io/ar/",
+        "https://bo7ios.github.io/ar",
+        "http://bo7ios.github.io/ar/",
+        "http://bo7ios.github.io/ar"
     ],
     [
-        https://cadegosser.github.io/,
-        https://cadegosser.github.io,
-        http://cadegosser.github.io/,
-        http://cadegosser.github.io
+        "https://cadegosser.github.io/",
+        "https://cadegosser.github.io",
+        "http://cadegosser.github.io/",
+        "http://cadegosser.github.io"
     ],
     [
-        https://bannerbomb.github.io/repo/,
-        https://bannerbomb.github.io/repo,
-        http://bannerbomb.github.io/repo/,
-        http://bannerbomb.github.io/repo
+        "https://bannerbomb.github.io/repo/",
+        "https://bannerbomb.github.io/repo",
+        "http://bannerbomb.github.io/repo/",
+        "http://bannerbomb.github.io/repo"
     ],
     [
-        https://repo.vip/,
-        https://repo.vip,
-        http://repo.vip/,
-        http://repo.vip
+        "https://repo.vip/",
+        "https://repo.vip",
+        "http://repo.vip/",
+        "http://repo.vip"
     ],
     [
-        https://cydia.hackulo.us/,
-        https://cydia.hackulo.us,
-        http://cydia.hackulo.us/,
-        http://cydia.hackulo.us
+        "https://cydia.hackulo.us/",
+        "https://cydia.hackulo.us",
+        "http://cydia.hackulo.us/",
+        "http://cydia.hackulo.us"
     ],
     [
-        https://appaddict.org/,
-        https://appaddict.org,
-        http://appaddict.org/,
-        http://appaddict.org
+        "https://appaddict.org/",
+        "https://appaddict.org",
+        "http://appaddict.org/",
+        "http://appaddict.org"
     ],
     [
-        https://appaddict.com/,
-        https://appaddict.com,
-        http://appaddict.com/,
-        http://appaddict.com
+        "https://appaddict.com/",
+        "https://appaddict.com",
+        "http://appaddict.com/",
+        "http://appaddict.com"
     ],
     [
-        https://applecraxkhead.github.io/,
-        https://applecraxkhead.github.io,
-        http://applecraxkhead.github.io/,
-        http://applecraxkhead.github.io
+        "https://applecraxkhead.github.io/",
+        "https://applecraxkhead.github.io",
+        "http://applecraxkhead.github.io/",
+        "http://applecraxkhead.github.io"
     ],
     [
-        https://repo.lifpa.com/,
-        https://repo.lifpa.com,
-        http://repo.lifpa.com/,
-        http://repo.lifpa.com
+        "https://repo.lifpa.com/",
+        "https://repo.lifpa.com",
+        "http://repo.lifpa.com/",
+        "http://repo.lifpa.com"
     ],
     [
-        https://lifpa.com/repo/,
-        https://lifpa.com/repo,
-        http://lifpa.com/repo/,
-        http://lifpa.com/repo
+        "https://lifpa.com/repo/",
+        "https://lifpa.com/repo",
+        "http://lifpa.com/repo/",
+        "http://lifpa.com/repo"
     ],
     [
-        https://chase-lebo.github.io/,
-        https://chase-lebo.github.io,
-        http://chase-lebo.github.io/,
-        http://chase-lebo.github.io
+        "https://chase-lebo.github.io/",
+        "https://chase-lebo.github.io",
+        "http://chase-lebo.github.io/",
+        "http://chase-lebo.github.io"
     ],
     [
-        https://thenightmancodeth.github.io/repo/,
-        https://thenightmancodeth.github.io/repo,
-        http://thenightmancodeth.github.io/repo/,
-        http://thenightmancodeth.github.io/repo
+        "https://thenightmancodeth.github.io/repo/",
+        "https://thenightmancodeth.github.io/repo",
+        "http://thenightmancodeth.github.io/repo/",
+        "http://thenightmancodeth.github.io/repo"
     ],
     [
-        https://everyonesrepo.github.io/,
-        https://everyonesrepo.github.io,
-        http://everyonesrepo.github.io/,
-        http://everyonesrepo.github.io
+        "https://everyonesrepo.github.io/",
+        "https://everyonesrepo.github.io",
+        "http://everyonesrepo.github.io/",
+        "http://everyonesrepo.github.io"
     ],
     [
-        https://nopiracyman.github.io/,
-        https://nopiracyman.github.io,
-        http://nopiracyman.github.io/,
-        http://nopiracyman.github.io
+        "https://nopiracyman.github.io/",
+        "https://nopiracyman.github.io",
+        "http://nopiracyman.github.io/",
+        "http://nopiracyman.github.io"
     ],
     [
-        https://anwarvip.github.io/3rab/,
-        https://anwarvip.github.io/3rab,
-        http://anwarvip.github.io/3rab/,
-        http://anwarvip.github.io/3rab
+        "https://anwarvip.github.io/3rab/",
+        "https://anwarvip.github.io/3rab",
+        "http://anwarvip.github.io/3rab/",
+        "http://anwarvip.github.io/3rab"
     ],
     [
-        https://x7rb.gitub.io/,
-        https://x7rb.gitub.io,
-        http://x7rb.gitub.io/,
-        http://x7rb.gitub.io
+        "https://x7rb.gitub.io/",
+        "https://x7rb.gitub.io",
+        "http://x7rb.gitub.io/",
+        "http://x7rb.gitub.io"
     ],
     [
-        https://hmodeis.firepo.me/,
-        https://hmodeis.firepo.me,
-        http://hmodeis.firepo.me/,
-        http://hmodeis.firepo.me
+        "https://hmodeis.firepo.me/",
+        "https://hmodeis.firepo.me",
+        "http://hmodeis.firepo.me/",
+        "http://hmodeis.firepo.me"
     ],
     [
-        https://chasewyrick.github.io/,
-        https://chasewyrick.github.io,
-        http://chasewyrick.github.io/,
-        http://chasewyrick.github.io
+        "https://chasewyrick.github.io/",
+        "https://chasewyrick.github.io",
+        "http://chasewyrick.github.io/",
+        "http://chasewyrick.github.io"
     ],
     [
-        https://s3ud-alshaman.github.io/cydia/,
-        https://s3ud-alshaman.github.io/cydia,
-        http://s3ud-alshaman.github.io/cydia/,
-        http://s3ud-alshaman.github.io/cydia
+        "https://s3ud-alshaman.github.io/cydia/",
+        "https://s3ud-alshaman.github.io/cydia",
+        "http://s3ud-alshaman.github.io/cydia/",
+        "http://s3ud-alshaman.github.io/cydia"
     ],
     [
-        https://apt.sunbelife.com/,
-        https://apt.sunbelife.com,
-        http://apt.sunbelife.com/,
-        http://apt.sunbelife.com
+        "https://apt.sunbelife.com/",
+        "https://apt.sunbelife.com",
+        "http://apt.sunbelife.com/",
+        "http://apt.sunbelife.com"
     ],
     [
-        https://repo.gclouds.info/,
-        https://repo.gclouds.info,
-        http://repo.gclouds.info/,
-        http://repo.gclouds.info
+        "https://repo.gclouds.info/",
+        "https://repo.gclouds.info",
+        "http://repo.gclouds.info/",
+        "http://repo.gclouds.info"
     ],
     [
-        https://xlsn0w.github.io/tweak/,
-        https://xlsn0w.github.io/tweak,
-        http://xlsn0w.github.io/tweak/,
-        http://xlsn0w.github.io/tweak
+        "https://xlsn0w.github.io/tweak/",
+        "https://xlsn0w.github.io/tweak",
+        "http://xlsn0w.github.io/tweak/",
+        "http://xlsn0w.github.io/tweak"
     ],
     [
-        https://xlsn0w.github.io/ipas/,
-        https://xlsn0w.github.io/ipas,
-        http://xlsn0w.github.io/ipas/,
-        http://xlsn0w.github.io/ipas
+        "https://xlsn0w.github.io/ipas/",
+        "https://xlsn0w.github.io/ipas",
+        "http://xlsn0w.github.io/ipas/",
+        "http://xlsn0w.github.io/ipas"
     ],
     [
-        https://cydia.vacation-et.work/private/,
-        https://cydia.vacation-et.work/private,
-        http://cydia.vacation-et.work/private/,
-        http://cydia.vacation-et.work/private
+        "https://cydia.vacation-et.work/private/",
+        "https://cydia.vacation-et.work/private",
+        "http://cydia.vacation-et.work/private/",
+        "http://cydia.vacation-et.work/private"
     ],
     [
-        https://cydia.vacation-et.work/,
-        https://cydia.vacation-et.work,
-        http://cydia.vacation-et.work/,
-        http://cydia.vacation-et.work
+        "https://cydia.vacation-et.work/",
+        "https://cydia.vacation-et.work",
+        "http://cydia.vacation-et.work/",
+        "http://cydia.vacation-et.work"
     ],
     [
         https://repo.hex-lab.com/,
