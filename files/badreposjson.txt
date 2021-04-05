@@ -639,5 +639,11 @@
         "https://www.myclassic.net",
         "http://www.myclassic.net/",
         "http://www.myclassic.net"
+    ],
+    [
+        "https://iammanpreetsingh.github.io/repo/",
+        "https://iammanpreetsingh.github.io/repo",
+        "http://iammanpreetsingh.github.io/repo/",
+        "http://iammanpreetsingh.github.io/repo"
     ]
 ]
