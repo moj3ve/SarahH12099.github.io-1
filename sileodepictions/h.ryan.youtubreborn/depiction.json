@@ -1,0 +1,18 @@
+{
+    "minVersion": "0.4",
+    "class": "DepictionTabView",
+    "headerImage": "https://example.com/banner.png",
+    "tintColor": "#6264D3",
+    "tabs": [
+      {
+        "class": "DepictionStackView",
+        "tabname": "Example page",
+        "views": [
+          {
+            "class": "DepictionHeaderView",
+            "title": "This is an example "
+          },
+        ],
+      }
+    ]
+  }
