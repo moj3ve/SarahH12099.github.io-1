@@ -31,6 +31,10 @@
             "class": "DepictionHeaderView",
             "title": "Testing Changelog"
           },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Testing Changelog"
+          },
         ],
       }
     ]
