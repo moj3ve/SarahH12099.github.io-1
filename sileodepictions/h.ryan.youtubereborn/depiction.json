@@ -37,7 +37,18 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "- Fixed an issue where non-mp4s/m4as could be played in the In-App Downloads Player \r\n- Removed First time launch popup \r\n- Added Sileo Depiction"
+            "markdown": "- Fixed an issue where non-mp4s/m4as could be played in the In-App Downloads Player \r\n- Removed first time launch popup"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.1.2"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Added an option to 'Hide Channel Watermark' \r\n- Fixed a double audio issue with the in-app downloads player"
           },
         ],
       }
