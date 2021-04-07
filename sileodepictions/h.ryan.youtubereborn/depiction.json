@@ -18,7 +18,7 @@
         "tabname": "Features",
         "views": [
           {
-            "class": "DepictionHeaderView",
+            "class": "DepictionSubheaderView",
             "title": "Testing features"
           },
         ],
@@ -28,12 +28,12 @@
         "tabname": "Changelog",
         "views": [
           {
-            "class": "DepictionHeaderView",
-            "title": "Testing Changelog"
+            "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.1.3"
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "- Testing Changelog"
+            "markdown": "- Fixed an issue where non-mp4s/m4as could be played in the In-App Downloads Player \r\n- Removed First time launch popup \r\n- Added Sileo Depiction"
           },
         ],
       }
