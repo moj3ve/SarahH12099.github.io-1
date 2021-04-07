@@ -1,16 +1,25 @@
 {
     "minVersion": "0.4",
     "class": "DepictionTabView",
-    "headerImage": "https://example.com/banner.png",
-    "tintColor": "#6264D3",
+    "tintColor": "#f895c2",
     "tabs": [
       {
         "class": "DepictionStackView",
-        "tabname": "Example page",
+        "tabname": "Features",
         "views": [
           {
             "class": "DepictionHeaderView",
-            "title": "This is an example "
+            "title": "Testing"
+          },
+        ],
+      },
+      {
+        "class": "DepictionStackView",
+        "tabname": "Changelog",
+        "views": [
+          {
+            "class": "DepictionHeaderView",
+            "title": "Testing Changelog"
           },
         ],
       }
