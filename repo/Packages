@@ -1,5 +1,5 @@
 Package: h.ryan.youtubereborn
-Version: 2.1.1.2
+Version: 2.1.1.3
 Architecture: iphoneos-arm
 Maintainer: Ryan H & SarahH12099
 Installed-Size: 1480
@@ -7,14 +7,15 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
 Filename: debs/YouTubeReborn.deb
-Size: 239336
-MD5sum: b85ec34f2107b4b14ead932502612833
-SHA1: d7cfd229f2c00d629e7d0469438f70e8bec413fd
-SHA256: c1f15d9e9f94a9aaa5593aa58744a8c6851ff935ce2900f5e94203a100fecf1d
+Size: 240956
+MD5sum: c222da12fe30522c0d8bed11ff8de23a
+SHA1: 49cc1923a66e61d857857e41260d1e940c7a7aa0
+SHA256: 6718dffea1fa6dd7c3431237910bf4395008ceda9dc90db8ed7fbe81da6e5e4e
 Section: Tweaks
 Description: YouTube Customizer
 Author: Ryan H & SarahH12099
 Name: YouTube Reborn
+Sileodepiction: https://sarahh12099.github.io/sileodepictions/h.ryan.youtubereborn/depiction.json
 
 Package: it.ned.runaway
 Version: 0.0.5
