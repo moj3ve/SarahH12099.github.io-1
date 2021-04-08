@@ -33,7 +33,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "- Added a switch to allow users to disable/enable 'No Video/No Homescreen Ads \r\n- Fixed 'Disable YouTube Kids' on the latest YouTube version"
+            "markdown": "- Added a switch to allow users to disable/enable 'No Video/No Homescreen Ads' \r\n- Fixed 'Disable YouTube Kids' on the latest YouTube version"
           },
           {
             "class": "DepictionSeparatorView"
