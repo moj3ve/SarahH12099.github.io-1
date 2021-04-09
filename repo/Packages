@@ -33,6 +33,22 @@ Description: Show network speed in status bar (iOS 13+ only).
 Author: ned
 Name: Runaway
 
+Package: net.sarahh12099.funimationjbbypass
+Version: 2.1.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 184
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/FunimationJBBypass.deb
+Size: 2932
+MD5sum: dfa3c8ddc611350efe484b21f82518eb
+SHA1: 07c96b00177b66eb786b8364e9c2ce4efbb68cad
+SHA256: 83cb62698a014d63416cd1dbd2b5b730eb057d90de023219d97f7c9057269102
+Section: Tweaks
+Description: Bypass Jailbreak Detection In Funimation
+Author: SarahH12099
+Name: Funimation JB Bypass
+
 Package: net.sarahh12099.gympassjbbypass
 Version: 2.1.0.0
 Architecture: iphoneos-arm
