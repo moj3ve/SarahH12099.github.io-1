@@ -33,3 +33,20 @@ Description: Show network speed in status bar (iOS 13+ only).
 Author: ned
 Name: Runaway
 
+Package: net.sarahh12099.sarahh-keyring
+Version: 2021.04.09
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: SarahH12099
+Installed-Size: 16
+Filename: debs/keyring.deb
+Size: 1778
+MD5sum: 3f2f7e89ffe29cc278ffeeec67eac2cb
+SHA1: 9594fbfc419dd5d4060e4c4f73dab6bc8fa9cd9c
+SHA256: 553f27298ad3c54e4584d90fc7eede5dc8605ef7a269710b8a8d56253143b9b6
+Section: System
+Priority: required
+Description: GnuPG keys for the SarahH12099 repository.
+Tag: purpose::backend, role::hacker
+Name: SarahH12099 APT Keyring
+
