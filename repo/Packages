@@ -33,3 +33,35 @@ Description: Show network speed in status bar (iOS 13+ only).
 Author: ned
 Name: Runaway
 
+Package: net.sarahh12099.gympassjbbypass
+Version: 2.1.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 184
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/GympassJBBypass.deb
+Size: 3218
+MD5sum: a0a2a01543715f6c58f48ad012e69f96
+SHA1: 23334c4dcc13566dada224f467e939a2070d7335
+SHA256: 7b465c6cbce3bca82023b65d229f15fb91d8f8e7679c0ab2faef28c849b98013
+Section: Tweaks
+Description: Bypass Jailbreak Detection In Gympass
+Author: SarahH12099
+Name: Gympass JB Bypass
+
+Package: net.sarahh12099.zoomjbbypass
+Version: 2.1.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 184
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/ZoomJBBypass.deb
+Size: 2888
+MD5sum: ba0240257bbca2af30bc9c495a15bd6d
+SHA1: ae7602fcc1e07f4287b6a2486e8aa888d740694a
+SHA256: 6abb13810b24db2ad85d6ff16330af4b2c9d7ac8f91b94e72941ab5a2fa71c95
+Section: Tweaks
+Description: Bypass Jailbreak Detection In Zoom
+Author: SarahH12099
+Name: Zoom JB Bypass
+
