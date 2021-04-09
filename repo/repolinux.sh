@@ -1,4 +1,4 @@
-rm -r -f Packages Packages.bz2 Packages.gz Release Release.gpg
+rm -r -f Packages Packages.bz2 Packages.gz Release
 dpkg-scanpackages -m debs > Packages
 bzip2 -k Packages
 gzip -k Packages
@@ -14,5 +14,4 @@ echo "MD5Sum:" >> Release
 echo " $packages_md5 $packages_size" >> Release
 echo " $packagesbz2_md5 $packagesbz2_size" >> Release
 echo " $packagesgz_md5 $packagesgz_size" >> Release
-gpg --sign Release
 echo "Done Repo"
