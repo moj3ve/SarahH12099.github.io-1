@@ -66,16 +66,16 @@ Author: SarahH12099
 Name: Gympass JB Bypass
 
 Package: net.sarahh12099.nysexcelsiorpasswalletjbbypass
-Version: 1.0.0.0
+Version: 1.0.0.1
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 184
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/NYSExcelsiorPassWalletJBBypass.deb
-Size: 4370
-MD5sum: 1ea31ab3aa349bc7de3a8665b10e32be
-SHA1: f014fbdf60f87bdcf83d50f7ecdc7a6ca53ac13b
-SHA256: 9df8724b29f559f5b65677a5efcf00e26694ededf0f48e56c3b44e38f1c2dd32
+Size: 4372
+MD5sum: 8fa94782d111222f5011d81343c32c80
+SHA1: 64406eabaf20bbb158195eec0a87c39f0a900159
+SHA256: 5d8e95fadbfc79f60ada493cdb6d6a92c8837efce82a2871552dae690c1f6d22
 Section: Tweaks
 Description: Bypass Jailbreak Detection In NYS Excelsior Pass Wallet
 Author: SarahH12099
