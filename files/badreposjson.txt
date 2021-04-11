@@ -711,5 +711,59 @@
         "https://sileo.top",
         "http://sileo.top/",
         "http://sileo.top"
+    ],
+    [
+        "https://apt.cydia.love/",
+        "https://apt.cydia.love",
+        "http://apt.cydia.love/",
+        "http://apt.cydia.love"
+    ],
+    [
+        "https://apt.cydiabc.top/",
+        "https://apt.cydiabc.top",
+        "http://apt.cydiabc.top/",
+        "http://apt.cydiabc.top"
+    ],
+    [
+        "https://repo.cydiabc.top/",
+        "https://repo.cydiabc.top",
+        "http://repo.cydiabc.top/",
+        "http://repo.cydiabc.top"
+    ],
+    [
+        "https://aptso.cn/",
+        "https://aptso.cn",
+        "http://aptso.cn/",
+        "http://aptso.cn"
+    ],
+    [
+        "https://cydiavip.com/",
+        "https://cydiavip.com",
+        "http://cydiavip.com/",
+        "http://cydiavip.com"
+    ],
+    [
+        "https://apt.cydia.top/",
+        "https://apt.cydia.top",
+        "http://apt.cydia.top/",
+        "http://apt.cydia.top"
+    ],
+    [
+        "https://apt.wxhbts.com/",
+        "https://apt.wxhbts.com",
+        "http://apt.wxhbts.com/",
+        "http://apt.wxhbts.com"
+    ],
+    [
+        "https://apt.cydiaba.cn/",
+        "https://apt.cydiaba.cn",
+        "http://apt.cydiaba.cn/",
+        "http://apt.cydiaba.cn"
+    ],
+    [
+        "https://apt.cydiakk.com/",
+        "https://apt.cydiakk.com",
+        "http://apt.cydiakk.com/",
+        "http://apt.cydiakk.com"
     ]
 ]
