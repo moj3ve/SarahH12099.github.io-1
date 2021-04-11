@@ -81,6 +81,22 @@ Description: Bypass Jailbreak Detection In NYS Excelsior Pass Wallet
 Author: SarahH12099
 Name: NYS Excelsior Pass Wallet JB Bypass
 
+Package: net.sarahh12099.premiercreditcardjbbypass
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 184
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/PremierBankJBBypass.deb
+Size: 2954
+MD5sum: 4a2e340d6b6ac8486df3d4847164f68f
+SHA1: 11f11c11d72dbbb7e9f66c3f7174bed2adc09701
+SHA256: a88124804212d75546e09c44528e6f4c516ad2ace115420b6d8b2be9829a98ba
+Section: Tweaks
+Description: Bypass Jailbreak Detection In PREMIER Credit Card
+Author: SarahH12099
+Name: PREMIER Credit Card JB Bypass
+
 Package: net.sarahh12099.zoomjbbypass
 Version: 2.1.0.0
 Architecture: iphoneos-arm
