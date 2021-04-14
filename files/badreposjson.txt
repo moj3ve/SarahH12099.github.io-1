@@ -35,6 +35,7 @@
         "http://cydia.iphonecake.com/",
         "http://cydia.iphonecake.com"
     ],
+    [
         "https://rejail.ru/",
         "https://rejail.ru",
         "http://rejail.ru/",
