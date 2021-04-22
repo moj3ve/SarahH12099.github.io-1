@@ -33,7 +33,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "- Improved Oled Dark Mode (iOS 13-) \r\n- Improved Colour Options (iOS 14+) \r\n- Added an error popup for googles api return"
+            "markdown": "- Improved Oled Dark Mode (iOS 13) \r\n- Improved Colour Options (iOS 14+) \r\n- Added an error popup if googles api returns null"
           },
           {
             "class": "DepictionSeparatorView"
