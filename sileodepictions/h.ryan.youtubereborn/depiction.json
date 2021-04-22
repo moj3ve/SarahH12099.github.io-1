@@ -29,6 +29,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.2.0"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Fixed the Audio Downloader not converting to m4a properly (fixes the audio file still having the video codec in it, it now properly converts to audio only) \r\n- Added metadata to the Video Downloader"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.1.5"
           },
           {
