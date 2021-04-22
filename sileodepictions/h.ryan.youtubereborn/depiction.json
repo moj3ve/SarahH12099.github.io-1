@@ -29,6 +29,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.1.5"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Improved Oled Dark Mode (iOS 13-) \r\n- Improved Colour Options (iOS 14+) \r\n- Added an error popup for googles api return"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.1.4"
           },
           {
