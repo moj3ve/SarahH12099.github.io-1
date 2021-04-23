@@ -29,6 +29,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.2.1"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Fixed an error with YouTubeReborn13.dylib \r\n- Fixed an error with YouTubeReborn14.dylib"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.2.0"
           },
           {

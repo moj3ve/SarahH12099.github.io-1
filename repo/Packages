@@ -1,5 +1,5 @@
 Package: h.ryan.youtubereborn
-Version: 2.1.2.0
+Version: 2.1.2.1
 Architecture: iphoneos-arm
 Maintainer: Ryan H & SarahH12099
 Installed-Size: 1468
@@ -7,10 +7,10 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
 Filename: debs/YouTubeReborn.deb
-Size: 242930
-MD5sum: f67aa99fdb3e82d927c1f8cd20e5b9f2
-SHA1: 642e19f9f89a36a3e9e5c847bdc79062443b8fc9
-SHA256: dfd871f2c0adbbf63b918fcb9ea826fa6896c76c1b2b0bc552811358f6fc9519
+Size: 243020
+MD5sum: d00bfc18eace82ee865b4f7f06190aea
+SHA1: a58d024c36813f75e880d08f639dabb86c453fa9
+SHA256: 4bc3043f71cf343c80c7fcc8a8c5d3764eee1a2334b54ce92ce826f7c8281874
 Section: Tweaks
 Description: YouTube Customizer
 Author: Ryan H & SarahH12099
