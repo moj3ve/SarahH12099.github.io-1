@@ -113,6 +113,22 @@ Description: Bypass Jailbreak Detection In PREMIER Credit Card
 Author: SarahH12099
 Name: PREMIER Credit Card JB Bypass
 
+Package: net.sarahh12099.prestojbbypass
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 164
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/PRESTOJBBypass.deb
+Size: 4506
+MD5sum: 08ac8be7b651ab074c901ef33ef00658
+SHA1: dd5163b6b0c1ae2332c03d509eccb4134bacb10f
+SHA256: 8981fa4000c9c2e086c3b24b1504abba330c37363d2ece0a80cb1cb7d3fa6287
+Section: Tweaks
+Description: Bypass Jailbreak Detection In PRESTO
+Author: SarahH12099
+Name: PRESTO JB Bypass
+
 Package: net.sarahh12099.zoomjbbypass
 Version: 2.1.0.0
 Architecture: iphoneos-arm
