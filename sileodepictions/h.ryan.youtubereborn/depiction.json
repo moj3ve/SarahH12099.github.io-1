@@ -29,6 +29,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.2.2"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Fixed an error where the iPadOS warning popup could appear with 'Enable iPad Style On iPhone' option enabled on iOS \r\n- Added a popup to the video overlay op button on iPadOS saying that we are looking into the issue of Picture-In-Picture and Downloading not working on iPadOS"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.2.1"
           },
           {
