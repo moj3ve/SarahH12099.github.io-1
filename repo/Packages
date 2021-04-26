@@ -81,6 +81,22 @@ Description: Bypass Jailbreak Detection In Gympass
 Author: SarahH12099
 Name: Gympass JB Bypass
 
+Package: net.sarahh12099.neighborsjbbypass
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 164
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/NeighborsJBBypass.deb
+Size: 4364
+MD5sum: 8b784bf268b290b70d2929814cff3e6a
+SHA1: 5c97fad667165159514d63c346757e08fa26ec33
+SHA256: 8296cd111704119ebc23826250e4abf44548233443ba3eee812e8f97e71e99ff
+Section: Tweaks
+Description: Bypass Jailbreak Detection In Neighbors by Ring
+Author: SarahH12099
+Name: Neighbors by Ring JB Bypass
+
 Package: net.sarahh12099.nysexcelsiorpasswalletjbbypass
 Version: 1.0.0.1
 Architecture: iphoneos-arm
