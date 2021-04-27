@@ -34,16 +34,16 @@ Author: ned
 Name: Runaway
 
 Package: net.sarahh12099.directvjbbypass
-Version: 1.0.0.0
+Version: 1.0.0.1
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 164
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/DIRECTVJBBypass.deb
-Size: 3020
-MD5sum: 75719cb1e999efe46c20669e4abc5bfd
-SHA1: 691691f8d1cd70fa9475c89493625413fd1e8f26
-SHA256: 15cced20e70cf26f3480824981c2e749fbd42d7601d32f39725df0e94581f2d3
+Size: 3404
+MD5sum: b476ffccb7b2cd87d7ae5972049f43ac
+SHA1: 9600fb6e0ce9778ef2f21cb87448edabc633201d
+SHA256: f229acd1ae80565d24236e585ee83b0c66f127b5ef4bc73755480f7dbda481ec
 Section: Tweaks
 Description: Bypass Jailbreak Detection In DIRECTV
 Author: SarahH12099
