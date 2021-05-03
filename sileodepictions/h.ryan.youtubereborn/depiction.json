@@ -29,6 +29,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.2.3"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Added the yt consent cookie to Video / Audio Downloading (Credits to youtube-dl Team and Alexander Eichhorn)"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.2.2"
           },
           {
