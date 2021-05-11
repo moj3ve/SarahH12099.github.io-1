@@ -29,6 +29,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.2.4"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Added 'Unlock UHD Quality' (Credits to Poomsmart) \n- Updated 'Hide Video Info Cards' for the latest YouTube version \n-Updated 'Oled Dark Mode' and 'Colour Options' for the latest YouTube version \n- Added Background Playback to Audio Downloads in the Downloads Player \n- Added a Background Playback check to Picture-In-Picture"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+		  {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.2.3"
           },
           {
