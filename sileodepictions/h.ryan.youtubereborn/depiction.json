@@ -11,6 +11,10 @@
             "class": "DepictionSubheaderView",
             "title": "The Ultimate YouTube Customizer"
           },
+          {
+            "class": "DepictionAdmobView",
+            "adUnitID": "ca-app-pub-8282431045965468/8382776848"
+          },
         ],
       },
       {
