@@ -33,6 +33,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.2.5"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "Completely redesigned the Downloads Player: \r\n- Separated downloaded videos and downloaded audio \r\n- Fixed non mp4s and non m4as appearing in the Downloads List \r\nAdded artwork support to the Downloads List \r\n\r\n- Updated credits"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+		  {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.2.4"
           },
           {
