@@ -29,7 +29,7 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.2.5"
+            "title": "Version: 2.1.2.5 (05/15/2021)"
           },
           {
             "class": "DepictionMarkdownView",
@@ -40,7 +40,7 @@
           },
 		  {
             "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.2.4"
+            "title": "Version: 2.1.2.4 (05/11/2021)"
           },
           {
             "class": "DepictionMarkdownView",
@@ -51,7 +51,7 @@
           },
 		  {
             "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.2.3"
+            "title": "Version: 2.1.2.3 (05/03/2021)"
           },
           {
             "class": "DepictionMarkdownView",
@@ -62,7 +62,7 @@
           },
           {
             "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.2.2"
+            "title": "Version: 2.1.2.2 (04/25/2021)"
           },
           {
             "class": "DepictionMarkdownView",
@@ -73,7 +73,7 @@
           },
           {
             "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.2.1"
+            "title": "Version: 2.1.2.1 (04/23/2021)"
           },
           {
             "class": "DepictionMarkdownView",
@@ -84,7 +84,7 @@
           },
           {
             "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.2.0"
+            "title": "Version: 2.1.2.0 (04/22/2021)"
           },
           {
             "class": "DepictionMarkdownView",
@@ -95,44 +95,11 @@
           },
           {
             "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.1.5"
+            "title": "Version: 2.1.1.5 (04/21/2021)"
           },
           {
             "class": "DepictionMarkdownView",
             "markdown": "- Improved Oled Dark Mode (iOS 13) \r\n- Improved Colour Options (iOS 14+) \r\n- Added an error popup if googles api returns null"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-          {
-            "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.1.4"
-          },
-          {
-            "class": "DepictionMarkdownView",
-            "markdown": "- Added a switch to allow users to disable/enable 'No Video/No Homescreen Ads' \r\n- Fixed 'Disable YouTube Kids' on the latest YouTube version"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-          {
-            "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.1.3"
-          },
-          {
-            "class": "DepictionMarkdownView",
-            "markdown": "- Fixed an issue where non-mp4s/m4as could be played in the In-App Downloads Player \r\n- Removed first time launch popup"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-          {
-            "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.1.2"
-          },
-          {
-            "class": "DepictionMarkdownView",
-            "markdown": "- Added an option to 'Hide Channel Watermark' \r\n- Fixed a double audio issue with the in-app downloads player"
           },
         ],
       }

@@ -766,5 +766,29 @@
         "https://apt.cydiakk.com",
         "http://apt.cydiakk.com/",
         "http://apt.cydiakk.com"
+    ],
+	[
+        "https://meblackhat.github.io/",
+        "https://meblackhat.github.io",
+        "http://meblackhat.github.io/",
+        "http://meblackhat.github.io"
+    ],
+	[
+        "https://mrblackhat.github.io/",
+        "https://mrblackhat.github.io",
+        "http://mrblackhat.github.io/",
+        "http://mrblackhat.github.io"
+    ],
+	[
+        "https://jamesmaloney.github.io/",
+        "https://jamesmaloney.github.io",
+        "http://jamesmaloney.github.io/",
+        "http://jamesmaloney.github.io"
+    ],
+	[
+        "https://sarahh12099-mirror.github.io/repo/",
+        "https://sarahh12099-mirror.github.io/repo",
+        "http://sarahh12099-mirror.github.io/repo/",
+        "http://sarahh12099-mirror.github.io/repo"
     ]
 ]
