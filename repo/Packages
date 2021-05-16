@@ -23,7 +23,7 @@ Architecture: iphoneos-arm
 Maintainer: ned
 Installed-Size: 356
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: debs/it.ned.runaway_0.0.5_iphoneos-arm.deb
+Filename: debs/Runaway.deb
 Size: 18830
 MD5sum: ffeaa570daaa1756553023be55a3c09b
 SHA1: 54ad4390dbfcadcc86798f70f224aa9fe9259081
@@ -81,22 +81,6 @@ Description: Bypass Jailbreak Detection In Gympass
 Author: SarahH12099
 Name: Gympass JB Bypass
 
-Package: net.sarahh12099.neighborsjbbypass
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 164
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/NeighborsJBBypass.deb
-Size: 4364
-MD5sum: 8b784bf268b290b70d2929814cff3e6a
-SHA1: 5c97fad667165159514d63c346757e08fa26ec33
-SHA256: 8296cd111704119ebc23826250e4abf44548233443ba3eee812e8f97e71e99ff
-Section: Tweaks
-Description: Bypass Jailbreak Detection In Neighbors by Ring
-Author: SarahH12099
-Name: Neighbors by Ring JB Bypass
-
 Package: net.sarahh12099.nysexcelsiorpasswalletjbbypass
 Version: 1.0.0.1
 Architecture: iphoneos-arm
@@ -108,6 +92,22 @@ Size: 4372
 MD5sum: 8fa94782d111222f5011d81343c32c80
 SHA1: 64406eabaf20bbb158195eec0a87c39f0a900159
 SHA256: 5d8e95fadbfc79f60ada493cdb6d6a92c8837efce82a2871552dae690c1f6d22
+Section: Tweaks
+Description: Bypass Jailbreak Detection In NYS Excelsior Pass Wallet
+Author: SarahH12099
+Name: NYS Excelsior Pass Wallet JB Bypass
+
+Package: net.sarahh12099.nysexcelsiorpasswalletjbbypass
+Version: 1.0.0.2
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 164
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/NeighborsJBBypass.deb
+Size: 4456
+MD5sum: 66689804b807e1804e53d30db5ef5337
+SHA1: 963387a333bf0a0c10101e3b5126231884e31bbc
+SHA256: c86afc23b340128dcfeef9a7f2a77fb3a6c62a3b206c2a281e4bf01334896ec2
 Section: Tweaks
 Description: Bypass Jailbreak Detection In NYS Excelsior Pass Wallet
 Author: SarahH12099
