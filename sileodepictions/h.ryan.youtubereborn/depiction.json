@@ -33,7 +33,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "Completely redesigned the Downloads Player: \r\n- Separated downloaded videos and downloaded audio \r\n- Fixed non mp4s and non m4as appearing in the Downloads List \r\nAdded artwork support to the Downloads List \r\nOther Changes: \r\n- Add artwork downloading to the audio downloader \r\n- Updated credits \r\nNotice: We have to still been unable to fix Downloading and Picture-In-Picture on iPadOS, so we decided to hide the Downloading/Pip 'op' button in the video overlay until we are able to fix it, sorry."
+            "markdown": "Completely redesigned the Downloads Player: \r\n- Separated downloaded videos and downloaded audio \r\n- Fixed non mp4s and non m4as appearing in the Downloads List \r\nAdded artwork support to the Downloads List \r\n\r\nOther Changes: \r\n- Add artwork downloading to the audio downloader \r\n- Updated credits \r\nNotice: We have to still been unable to fix Downloading and Picture-In-Picture on iPadOS, so we decided to hide the Downloading/Pip 'op' button in the video overlay until we are able to fix it, sorry."
           },
           {
             "class": "DepictionSeparatorView"
