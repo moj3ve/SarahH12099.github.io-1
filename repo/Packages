@@ -98,16 +98,16 @@ Author: SarahH12099
 Name: NYS Excelsior Pass Wallet JB Bypass
 
 Package: net.sarahh12099.nysexcelsiorpasswalletjbbypass
-Version: 1.0.0.3
+Version: 1.0.0.4
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 164
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/NYSExcelsiorPassWalletJBBypass.deb
-Size: 4532
-MD5sum: 4acea6a33d8f91223ebf6e88a9fc4cb0
-SHA1: 2201986b887bf0003616bac2f2683ee841eede92
-SHA256: 2fe9e8573149efd42535cc3292b7f33c343ff56df263f9dba432bd2d3f98f11c
+Size: 4536
+MD5sum: 6a8d192b02605b38a0b9503d64a277cd
+SHA1: 1a4d18d415f612a25fcbf5edbf1ac794b3fad981
+SHA256: 3542f9fbfbc7241519856513f4d5770ff0d8962d000d4170e27da199396a59a5
 Section: Tweaks
 Description: Bypass Jailbreak Detection In NYS Excelsior Pass Wallet
 Author: SarahH12099
