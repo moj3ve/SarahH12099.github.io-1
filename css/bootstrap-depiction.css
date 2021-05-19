@@ -21,6 +21,7 @@
 	box-shadow: none;
 }
 #descriptiontxt {
+	padding-left: 10px;
 	padding-top: 10px;
 }
 #featureslist {
@@ -32,4 +33,10 @@
 .hrstyle {
 	width: 98%;
 	background-color: gray; height: 1px; border: 0;
+}
+.version {
+	padding-left: 10px;
+}
+.subchangelogtxt {
+	padding-left: 10px;
 }
