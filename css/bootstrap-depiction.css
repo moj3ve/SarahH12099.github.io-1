@@ -17,3 +17,7 @@
 .btn-group {
 	width: 100%;
 }
+.btn:focus {
+	outline: none;
+	box-shadow: none;
+}
