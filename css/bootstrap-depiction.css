@@ -20,6 +20,9 @@
 	outline: none;
 	box-shadow: none;
 }
+#descriptiontxt {
+	padding-top: 10px;
+}
 #featureslist {
 	padding-top: 10px;
 }
