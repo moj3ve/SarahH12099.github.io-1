@@ -26,3 +26,10 @@
 #featureslist {
 	padding-top: 10px;
 }
+#changelogpad {
+	padding-top: 10px;
+}
+.hrstyle {
+	width: 98%;
+	background-color: gray; height: 1px; border: 0;
+}

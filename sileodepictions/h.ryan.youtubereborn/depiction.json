@@ -66,62 +66,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "- Added 'Unlock UHD Quality' (iOS 14+, Credits to Poomsmart) \r\n- Updated 'Hide Video Info Cards' for the latest YouTube version \r\n-Updated 'Oled Dark Mode' and 'Colour Options' for the latest YouTube version \r\n- Added Background Playback to Audio Downloads in the Downloads Player \r\n- Added a Background Playback check to Picture-In-Picture"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-		  {
-            "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.2.3 (05/03/2021)"
-          },
-          {
-            "class": "DepictionMarkdownView",
-            "markdown": "- Added the yt consent cookie to Video / Audio Downloading (Credits to youtube-dl Team and Alexander Eichhorn)"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-          {
-            "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.2.2 (04/25/2021)"
-          },
-          {
-            "class": "DepictionMarkdownView",
-            "markdown": "- Fixed an error where the iPadOS warning popup could appear with 'Enable iPad Style On iPhone' option enabled on iOS \r\n- Added a popup to the video overlay op button on iPadOS saying that we are looking into the issue of Picture-In-Picture and Downloading not working on iPadOS"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-          {
-            "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.2.1 (04/23/2021)"
-          },
-          {
-            "class": "DepictionMarkdownView",
-            "markdown": "- Fixed an error with YouTubeReborn13.dylib \r\n- Fixed an error with YouTubeReborn14.dylib"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-          {
-            "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.2.0 (04/22/2021)"
-          },
-          {
-            "class": "DepictionMarkdownView",
-            "markdown": "- Fixed the Audio Downloader not converting to m4a properly (fixes the audio file still having the video codec in it, it now properly converts to audio only) \r\n- Added metadata to the Video Downloader"
-          },
-          {
-            "class": "DepictionSeparatorView"
-          },
-          {
-            "class": "DepictionSubheaderView",
-            "title": "Version: 2.1.1.5 (04/21/2021)"
-          },
-          {
-            "class": "DepictionMarkdownView",
-            "markdown": "- Improved Oled Dark Mode (iOS 13) \r\n- Improved Colour Options (iOS 14+) \r\n- Added an error popup if googles api returns null"
+            "markdown": "- Added 'Unlock UHD Quality' (iOS 14+, Credits to Poomsmart) \r\n- Updated 'Hide Video Info Cards' for the latest YouTube version \r\n- Updated 'Oled Dark Mode' and 'Colour Options' for the latest YouTube version \r\n- Added Background Playback to Audio Downloads in the Downloads Player \r\n- Added a Background Playback check to Picture-In-Picture"
           },
         ],
       }
