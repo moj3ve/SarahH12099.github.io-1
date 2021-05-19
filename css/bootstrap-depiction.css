@@ -1,5 +1,5 @@
 * {
-	color: white;
+	color: black;
 }
 #background {
 	z-index: -1;
@@ -9,7 +9,7 @@
     height: 100%;
     width: 100%;
     background-size: cover;
-    background: #000000;
+    background: white;
     background-repeat: no-repeat;
     background-attachment: scroll;
 }
