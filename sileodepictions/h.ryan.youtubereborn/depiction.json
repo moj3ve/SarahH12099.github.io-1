@@ -29,6 +29,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.2.7 (05/19/2021)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Removed YouPIP conflict (Massive thanks to Poomsmart for fixing the conflict) \r\n- Added a web depiction"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+		  {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.2.6 (05/18/2021)"
           },
           {
