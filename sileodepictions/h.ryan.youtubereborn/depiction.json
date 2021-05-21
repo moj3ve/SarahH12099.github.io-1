@@ -29,6 +29,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.2.8 (05/21/2021)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Fixed Downloading and Picture-In-Picture not working \r\n- Updated YouTube Reborn for Google's api changes"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+		  {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.2.7 (05/19/2021)"
           },
           {
