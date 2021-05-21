@@ -1,5 +1,5 @@
 Package: h.ryan.youtubereborn
-Version: 2.1.2.7
+Version: 2.1.2.8
 Architecture: iphoneos-arm
 Maintainer: Ryan H & SarahH12099
 Installed-Size: 1484
@@ -8,10 +8,10 @@ Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn,
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
 Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
 Filename: debs/YouTubeReborn.deb
-Size: 248382
-MD5sum: caf5da3c8cebde2ea4f6a9fa66b7d082
-SHA1: 79bf84538a6373104dcb1e4bb3066646eaf0d2bf
-SHA256: 86b94a9941c29687a758c088457f75c017d774b2005998096b4d2e224ae2f8fd
+Size: 248832
+MD5sum: 86333676eec9e1caece0fd483c4c0bbd
+SHA1: 216e98e4778c5bf5757a93862162e9178e041091
+SHA256: 473423776585288bf6ac666ea8a5d26cca7a9bf19618cc3d40cadce41183c8de
 Section: Tweaks
 Description: YouTube Customizer
 Author: Ryan H & SarahH12099
