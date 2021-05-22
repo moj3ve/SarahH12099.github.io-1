@@ -790,5 +790,11 @@
         "https://sarahh12099-mirror.github.io/repo",
         "http://sarahh12099-mirror.github.io/repo/",
         "http://sarahh12099-mirror.github.io/repo"
+    ],
+	[
+        "https://mrepo.org/",
+        "https://mrepo.org",
+        "http://mrepo.org/",
+        "http://mrepo.org"
     ]
 ]
