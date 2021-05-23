@@ -164,7 +164,7 @@ Author: SarahH12099
 Name: Zoom JB Bypass
 
 Package: py.youtubedl
-Version: 2021.05.16
+Version: 2021.05.16-1
 Architecture: iphoneos-arm
 Maintainer: Ryan H & SarahH12099
 Depends: python3
@@ -172,10 +172,10 @@ Conflicts: youtube-dl
 Replaces: youtube-dl
 Provides: youtube-dl
 Filename: debs/youtubedl.deb
-Size: 1727402
-MD5sum: cefcbd40990ae2a5242ce70f9c0ca029
-SHA1: b84c8ae89a556b6826df02b2c0eed8229015fc2e
-SHA256: 9ec84b977c5af59387c31ccd9396bcde7b109b4f80c40912672bf7972e33a268
+Size: 1727400
+MD5sum: 222ef91773c662f778cc6a99c24aa3b6
+SHA1: e4c1c88de549e0024e2513178a2455b831dbe465
+SHA256: cd3f011743595b1346b83725d12e94886f8e37170d1a90d6865b03299b7b5b71
 Section: Multimedia
 Description: youtube-dl Python
 Author: Ryan H & SarahH12099
