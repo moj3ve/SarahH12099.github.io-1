@@ -19,38 +19,6 @@ Depiction: https://sarahh12099.github.io/depictions/youtubereborn.html
 Name: YouTube Reborn
 Sileodepiction: https://sarahh12099.github.io/sileodepictions/h.ryan.youtubereborn/depiction.json
 
-Package: it.ned.runaway
-Version: 0.0.5
-Architecture: iphoneos-arm
-Maintainer: ned
-Installed-Size: 356
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: debs/Runaway.deb
-Size: 18830
-MD5sum: ffeaa570daaa1756553023be55a3c09b
-SHA1: 54ad4390dbfcadcc86798f70f224aa9fe9259081
-SHA256: 417f91c03b1a648120d125ffb84ac8e6aa9241d8778b59769f4a94a83f5b555c
-Section: Tweaks
-Description: Show network speed in status bar (iOS 13+ only).
-Author: ned
-Name: Runaway
-
-Package: net.sarahh12099.directvjbbypass
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 164
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/DIRECTVJBBypass.deb
-Size: 3404
-MD5sum: b476ffccb7b2cd87d7ae5972049f43ac
-SHA1: 9600fb6e0ce9778ef2f21cb87448edabc633201d
-SHA256: f229acd1ae80565d24236e585ee83b0c66f127b5ef4bc73755480f7dbda481ec
-Section: Tweaks
-Description: Bypass Jailbreak Detection In DIRECTV
-Author: SarahH12099
-Name: DIRECTV JB Bypass
-
 Package: net.sarahh12099.funimationjbbypass
 Version: 2.1.0.0
 Architecture: iphoneos-arm
@@ -83,37 +51,21 @@ Description: Bypass Jailbreak Detection In Gympass
 Author: SarahH12099
 Name: Gympass JB Bypass
 
-Package: net.sarahh12099.nysexcelsiorpasswalletjbbypass
-Version: 1.0.0.2
+Package: net.sarahh12099.neighborsjbbypass
+Version: 1.0.0.1
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 164
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/NeighborsJBBypass.deb
-Size: 4456
-MD5sum: 66689804b807e1804e53d30db5ef5337
-SHA1: 963387a333bf0a0c10101e3b5126231884e31bbc
-SHA256: c86afc23b340128dcfeef9a7f2a77fb3a6c62a3b206c2a281e4bf01334896ec2
+Size: 4366
+MD5sum: 036d406bb5e70a75444c46bfd88448a4
+SHA1: 3f5150aea50584a7e93f33e8d6333d35984f47b5
+SHA256: da7e53470b85d1215d3783112662a49d3c97b4418f8df4d12546e6d3496def7c
 Section: Tweaks
-Description: Bypass Jailbreak Detection In NYS Excelsior Pass Wallet
+Description: Bypass Jailbreak Detection In Neighbors by Ring
 Author: SarahH12099
-Name: NYS Excelsior Pass Wallet JB Bypass
-
-Package: net.sarahh12099.nysexcelsiorpasswalletjbbypass
-Version: 1.0.0.4
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 164
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/NYSExcelsiorPassWalletJBBypass.deb
-Size: 4536
-MD5sum: 6a8d192b02605b38a0b9503d64a277cd
-SHA1: 1a4d18d415f612a25fcbf5edbf1ac794b3fad981
-SHA256: 3542f9fbfbc7241519856513f4d5770ff0d8962d000d4170e27da199396a59a5
-Section: Tweaks
-Description: Bypass Jailbreak Detection In NYS Excelsior Pass Wallet
-Author: SarahH12099
-Name: NYS Excelsior Pass Wallet JB Bypass
+Name: Neighbors by Ring JB Bypass
 
 Package: net.sarahh12099.premiercreditcardjbbypass
 Version: 1.0.0.0
@@ -132,16 +84,16 @@ Author: SarahH12099
 Name: PREMIER Credit Card JB Bypass
 
 Package: net.sarahh12099.prestojbbypass
-Version: 1.0.0.0
+Version: 1.0.0.1
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 164
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/PRESTOJBBypass.deb
-Size: 4506
-MD5sum: 08ac8be7b651ab074c901ef33ef00658
-SHA1: dd5163b6b0c1ae2332c03d509eccb4134bacb10f
-SHA256: 8981fa4000c9c2e086c3b24b1504abba330c37363d2ece0a80cb1cb7d3fa6287
+Size: 4500
+MD5sum: 2acd155de4c52c65c150c63fbb825a58
+SHA1: d5894e443b2cab98a770d3f049da60fb3122a851
+SHA256: 157e869d6be11398ed4a36f3fd87ac33fb07410bb20a01d010baf6066c662531
 Section: Tweaks
 Description: Bypass Jailbreak Detection In PRESTO
 Author: SarahH12099
