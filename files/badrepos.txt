@@ -530,3 +530,7 @@ https://mrepo.org/
 https://mrepo.org
 http://mrepo.org/
 http://mrepo.org
+https://ginsudev.github.io/repo/
+https://ginsudev.github.io/repo
+http://ginsudev.github.io/repo/
+http://ginsudev.github.io/repo
