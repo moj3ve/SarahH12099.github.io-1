@@ -33,7 +33,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "- Added 4k Video Downloading \r\n- Added ultra hq audio downloading \r\n- Added album artwork and metadata to video and audio downloading \r\n- Audio downloading is now mp3 format instead of m4a \r\n- Updated the downloads player for mp3 files \r\n- Separated the downloading and picture-in-picture buttons in the video overlay \r\n- Re-enabled video and audio downloading on iPadOS \r\n- Updated 'Disable YouTube Kids' for the latest YouTube \r\n- Updated 'Disable Video Info Cards' for the latest YouTube \r\n- Updated text in the Tab Bar Options \r\n\r\n Beyond Massive Thanks To Zoey (SmolZoey) And Hayden (Diatrus) For Helping With This Update"
+            "markdown": "- Added 4k Video Downloading \r\n- Added ultra hq audio downloading \r\n- Added album artwork and metadata to video and audio downloading \r\n- Audio downloading is now mp3 format instead of m4a \r\n- Updated the downloads player for mp3 files \r\n- Separated the downloading and picture-in-picture buttons in the video overlay \r\n- Re-enabled video and audio downloading on iPadOS \r\n- Updated 'Disable YouTube Kids' for the latest YouTube \r\n- Updated 'Disable Video Info Cards' for the latest YouTube \r\n- Updated text in the Tab Bar Options \r\n\r\n Beyond Massive Thanks To Zoey (smolzoey) And Hayden (Diatrus) For Helping With This Update"
           },
           {
             "class": "DepictionSeparatorView"
