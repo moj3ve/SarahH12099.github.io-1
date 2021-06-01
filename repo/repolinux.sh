@@ -1,4 +1,5 @@
-rm -r -f Packages Packages.bz2 Packages.gz
+rm -rf Packages Packages.bz2 Packages.gz Packges.zst
 dpkg-scanpackages -m debs > Packages
 bzip2 -k Packages
 gzip -k Packages
+zstd -19 Packages
