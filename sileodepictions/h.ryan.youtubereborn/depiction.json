@@ -29,6 +29,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.3.1 (06/01/2021)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Fixed the pip button not pausing the yt video if it is playing \r\n- Removed the ipados popup on first launch \r\n- Added an unc0ver popup for downloading"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+		  {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.3.0 (06/01/2021)"
           },
           {
