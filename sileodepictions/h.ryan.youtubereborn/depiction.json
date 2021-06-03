@@ -29,6 +29,17 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 2.1.3.3 (06/03/2021)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Fixed a typo in Credits that would redirect to the wrong twitter url"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+		  {
+            "class": "DepictionSubheaderView",
             "title": "Version: 2.1.3.2 (06/03/2021)"
           },
           {
