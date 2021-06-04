@@ -6,3 +6,13 @@ Codename: sarahh12099repo
 Architectures: iphoneos-arm
 Components: main
 Description: SarahH12099 Repo
+MD5Sum:
+ bdf39def411d5e6be2d82a5f5616e4f5 4862 Packages
+ 87ed4fc09b0a9ecce0f1bc1736155dbb 1846 Packages.bz2
+ 1eb10016446421e07b940e5ea16a941f 1712 Packages.gz
+ 365a9d35b612218bfaf3fdbca1be68d6 1667 Packages.zst
+SHA256:
+ 739d86570c1fa9d7e5e2827a1c6fceb3eed74b48130dca2a879eef4d3548e822 4862 Packages
+ a085bebdcefa7cc7ae03d5bfa44f120c70f1f1fb9790618509329b1e921b7a33 1846 Packages.bz2
+ 2fcdd68f29c35dbb1e2d7bf79abcac94f497afba5915fee87e06f6062fb01fba 1712 Packages.gz
+ 64b5e3417e0ff15b8665ac6fb89b34f1322a23e5f2650105329d3ade48cbf677 1667 Packages.zst
