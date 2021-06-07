@@ -868,5 +868,23 @@
 		"https://bombonmdfk.github.io/repo",
 		"http://bombonmdfk.github.io/repo/",
 		"http://bombonmdfk.github.io/repo"
+	],
+	[
+		"https://axcvd.github.io/repo/",
+		"https://axcvd.github.io/repo",
+		"http://axcvd.github.io/repo/",
+		"http://axcvd.github.io/repo"
+	],
+	[
+		"https://kgeetings.github.io/repo/",
+		"https://kgeetings.github.io/repo",
+		"http://kgeetings.github.io/repo/",
+		"http://kgeetings.github.io/repo"
+	],
+	[
+		"https://tweakdoor.github.io/repo/",
+		"https://tweakdoor.github.io/repo",
+		"http://tweakdoor.github.io/repo/",
+		"http://tweakdoor.github.io/repo"
 	]
 ]
