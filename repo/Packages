@@ -52,16 +52,16 @@ Author: SarahH12099
 Name: Gympass JB Bypass
 
 Package: net.sarahh12099.neighborsjbbypass
-Version: 1.0.0.1
+Version: 1.0.0.2
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 164
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/NeighborsJBBypass.deb
-Size: 4366
-MD5sum: 036d406bb5e70a75444c46bfd88448a4
-SHA1: 3f5150aea50584a7e93f33e8d6333d35984f47b5
-SHA256: da7e53470b85d1215d3783112662a49d3c97b4418f8df4d12546e6d3496def7c
+Size: 4364
+MD5sum: 7ca4a6c849b3f23de20c787685c4bc41
+SHA1: 68e641213d7d79c4c877673c77dd67d9d353c22b
+SHA256: 3abee79e78dd91a315ca8e5704b7fc4eea3c97b3933d099331b1bd7c5ec539cd
 Section: Tweaks
 Description: Bypass Jailbreak Detection In Neighbors by Ring
 Author: SarahH12099
@@ -116,7 +116,7 @@ Author: SarahH12099
 Name: Zoom JB Bypass
 
 Package: py.youtubedl
-Version: 2021.05.16-1
+Version: 2021.06.06
 Architecture: iphoneos-arm
 Maintainer: Ryan H & SarahH12099
 Depends: python3
@@ -124,10 +124,10 @@ Conflicts: youtube-dl
 Replaces: youtube-dl
 Provides: youtube-dl
 Filename: debs/youtubedl.deb
-Size: 1727400
-MD5sum: 222ef91773c662f778cc6a99c24aa3b6
-SHA1: e4c1c88de549e0024e2513178a2455b831dbe465
-SHA256: cd3f011743595b1346b83725d12e94886f8e37170d1a90d6865b03299b7b5b71
+Size: 1727644
+MD5sum: f0583856fe1602944aacff8ade7f1e17
+SHA1: 69363e5f528969478fff2ec436ae177c9f28ad71
+SHA256: 3c2792c3aeb25e4498f06901594793d508daa5cae9d8ab951c9325ae43149e97
 Section: Multimedia
 Description: youtube-dl Python
 Author: Ryan H & SarahH12099
