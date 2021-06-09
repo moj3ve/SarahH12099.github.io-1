@@ -79,16 +79,16 @@ Author: SarahH12099
 Name: PRESTO JB Bypass
 
 Package: net.sarahh12099.sileooleddarkmode
-Version: 1.0.0.1
+Version: 1.0.0.2
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 164
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/SileoOledDarkMode.deb
-Size: 4448
-MD5sum: 20bbc9b4a20095dfcec37bf9f4a7cc09
-SHA1: 8a9569cb4b3f1fcd14e99e4fb3b73d1bb79a58f8
-SHA256: be307cd291bf19b7360dbc9221fc13534610d605045f483733f41aaa72d36095
+Size: 4534
+MD5sum: bf49dca5f903ae1c4ea82cb27e74bf24
+SHA1: 5024dd99318f73598c6ba696a598fa86baa465ed
+SHA256: d2836e481ea025cc64b6a610fbeb18749c6c6c11a6d1608fe493a4ffcfef5d90
 Section: Tweaks
 Description: Oled Dark Mode For Sileo, Sileo Beta And Sileo Nightly
 Author: SarahH12099
