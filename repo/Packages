@@ -78,6 +78,22 @@ Description: Bypass Jailbreak Detection In PRESTO
 Author: SarahH12099
 Name: PRESTO JB Bypass
 
+Package: net.sarahh12099.sileooleddarkmode
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 164
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/SileoOledDarkMode.deb
+Size: 4422
+MD5sum: 3ce5ae61c83d8e0679560bf8ce4a63c5
+SHA1: abb403e223e54e8b47a48363dc915ff07b6b42cd
+SHA256: 6a88fc4252d2f844e51957b877e5da98a0345806332d9f7ecea18e9f08d73f16
+Section: Tweaks
+Description: Oled Dark Mode For Sileo
+Author: SarahH12099
+Name: Sileo Oled Dark Mode
+
 Package: net.sarahh12099.zoomjbbypass
 Version: 2.1.0.0
 Architecture: iphoneos-arm
